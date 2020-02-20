@@ -2,3 +2,8 @@
 	path = RLJO/OCA/Stage1
 	url = git@github.com:RLJO/Royal-Addons.git
 	branch = Stage1
+
+[submodule "RLJO/OCA/Stage2"]
+	path = RLJO/OCA/Stage2
+	url = git@github.com:RLJO/Royal-Addons.git
+	branch = Stage2
